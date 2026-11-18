@@ -1,6 +1,6 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="ASCII art banner: infra/dev, troubleShooter, always learning, coffee --infinite">
-  <img src="./assets/about.svg" width="100%" alt="whoami: holid4y, uni student from brazil, no professional experience yet. I code with AI; postgres is the part I know best. Stack: postgresql and linux (comfortable), git (daily), c#, rust and php/laravel (with ai), java (learning). Looking for a first job or internship in IT.">
+  <img src="./assets/about.svg" width="100%" alt="whoami: holid4y, brazil. Information systems at Feevale, electrician since 2023. Made FeatheryOne, a distro based on Nobara. Stack: PostgreSQL, Source and Unreal Engine, PC support, Git, Photoshop; C#, Rust and PHP basics; Java learning. Portuguese and English.">
 </p>
 
 <p align="center">
